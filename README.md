@@ -13,7 +13,7 @@
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
   <img src="https://skillicons.dev/icons?i=tauri" height="40" alt="tauri logo"  />
-  <img src="https://skillicons.dev/icons?i=md" height="40" alt="tauri logo"  />
+  <img src="https://skillicons.dev/icons?i=bun" height="40" alt="bun logo"  />
 </div>
 
 ###
