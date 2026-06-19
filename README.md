@@ -18,8 +18,12 @@
 
 ###
 
-Some of my projects that will be posted soon:
+**Some of my projects that will be posted soon:**
+
 [LightCloud](https://github.com/CodeHorizon0/LightCloud) - open source cloud storage writen on fastapi & react.
+
 ULoader - universal media downloader for YouTube and other platforms, bdased on yt-dlp and PyQt6.
+
 P2P chat app - WebRTC DataChannel based chat app with signaling server.
+
 Multicrawler - Multiprocessing Web crawler from saving pages to .mhtml universal format. 
