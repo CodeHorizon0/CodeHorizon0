@@ -22,7 +22,7 @@
 
 [LightCloud](https://github.com/CodeHorizon0/LightCloud) - open source cloud storage writen on fastapi & react.
 
-ULoader - universal media downloader for YouTube and other platforms, bdased on yt-dlp and PyQt6.
+ULoader - universal media downloader for YouTube and other platforms, based on yt-dlp and PyQt6.
 
 P2P chat app - WebRTC DataChannel based chat app with signaling server.
 
