@@ -20,9 +20,9 @@
 
 **Some of my projects that will be posted soon:**
 
-[LightCloud](https://github.com/CodeHorizon0/LightCloud) - open source cloud storage writen on fastapi & react.
+[LightCloud](https://github.com/CodeHorizon0/LightCloud) - open source cloud storage writen on [fastapi](https://fastapi.tiangolo.com/) & [react](https://react.dev/).
 
-[ULoader](https://github.com/CodeHorizon0/ULoader) - universal media downloader for YouTube and other platforms, based on [yt-dlp](https://github.com/yt-dlp/yt-dlp) and PyQt6.
+[ULoader](https://github.com/CodeHorizon0/ULoader) - universal media downloader for YouTube and other platforms, based on [yt-dlp](https://github.com/yt-dlp/yt-dlp) and [PyQt6](https://pypi.org/project/PyQt6/).
 
 Multicrawler - Multiprocessing Web crawler from saving pages to .mhtml universal format. 
 
