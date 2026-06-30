@@ -1,7 +1,7 @@
+
+
 <h1 align="center"> CodeHorizon0 </h1>
-
-###
-
+<h2 align="center"> My stack: </h2>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
@@ -16,9 +16,8 @@
   <img src="https://skillicons.dev/icons?i=bun" height="40" alt="bun logo"  />
 </div>
 
-###
 
-**Some of my projects that will be posted soon:**
+## Some of my significant projects in development that will be published soon:
 
 [LightCloud](https://github.com/CodeHorizon0/LightCloud) - open source cloud storage writen on [fastapi](https://fastapi.tiangolo.com/) & [react](https://react.dev/).
 
@@ -27,4 +26,3 @@
 [Multicrawler](https://github.com/CodeHorizon0/Multicrawler) - MultiCrawler combines a high-performance HTTP client with browser automation to crawl both traditional and JavaScript-heavy websites.
 
 P2P chat app - WebRTC DataChannel based chat app with signaling server.
-
