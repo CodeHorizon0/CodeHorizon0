@@ -16,6 +16,7 @@
   <img src="https://skillicons.dev/icons?i=bun" height="40" alt="bun logo"  />
 </div>
 
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=CodeHorizon0&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ## Some of my significant projects in development that will be published soon:
 
