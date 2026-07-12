@@ -14,9 +14,11 @@
   <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
   <img src="https://skillicons.dev/icons?i=tauri" height="40" alt="tauri logo"  />
   <img src="https://skillicons.dev/icons?i=bun" height="40" alt="bun logo"  />
+
+  ![](https://github-readme-stats.shion.dev/api/top-langs/?username=CodeHorizon0&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact&border_radius=10)
 </div>
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=CodeHorizon0&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
 
 ## Some of my significant projects in development that will be published soon:
 
