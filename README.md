@@ -26,4 +26,4 @@
 - [ULoader](https://github.com/CodeHorizon0/ULoader) - universal media downloader for YouTube and other platforms, based on [yt-dlp](https://github.com/yt-dlp/yt-dlp) and [PyQt6](https://pypi.org/project/PyQt6/).
 - [Multicrawler](https://github.com/CodeHorizon0/Multicrawler) - MultiCrawler combines a high-performance HTTP client with browser automation to crawl both traditional and JavaScript-heavy websites.
 - MLC - Multi Langluage Core, PY/LUA in Rust.
-- P2P chat app - WebRTC DataChannel based chat app with signaling server.
+- ~~P2P chat app - WebRTC DataChannel based chat app with signaling server.~~ *Cancelled at the working prototype stage.*
