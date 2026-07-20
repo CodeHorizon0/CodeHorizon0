@@ -16,7 +16,7 @@
   <img src="https://skillicons.dev/icons?i=bun" height="40" alt="bun logo"  />
 
   ![Language using](https://github-readme-stats.shion.dev/api/top-langs/?username=CodeHorizon0&layout=donut&theme=gruvbox&hide_border=true&border_radius=16&include_all_commits=true&count_private=false)
-  ![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CodeHorizon0&theme=gruvbox&hide_border=true&radius=16)
+  ![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CodeHorizon0&theme=gruvbox&hide_border=true&radius=16&bg_color=282828&color=FAB32B)
 </div>
 
 
