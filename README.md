@@ -1,7 +1,4 @@
-
-
 <h1 align="center"> CodeHorizon0 </h1>
-<h2 align="center"> My stack: </h2>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
