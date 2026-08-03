@@ -23,5 +23,6 @@
 - [LightCloud](https://github.com/CodeHorizon0/LightCloud) - open source cloud file storage writen on [fastapi](https://fastapi.tiangolo.com/) & [react](https://react.dev/).
 - [ULoader](https://github.com/CodeHorizon0/ULoader) - universal media downloader for YouTube and other platforms, based on [yt-dlp](https://github.com/yt-dlp/yt-dlp) and [PyQt6](https://pypi.org/project/PyQt6/).
 - [FFT_WASM](https://github.com/CodeHorizon0/FFT_WASM) - WASM lib for fast fft audio analyze.
-- [MLC](https://github.com/CodeHorizon0/MLC) - Multi Langluage Core, PY/LUA (mb JS) in Rust runtime, to run scripts in isolated processes with Rust integration. 
+- [MLC](https://github.com/CodeHorizon0/MLC) - Multi Langluage Core, PY/LUA (mb JS) in Rust runtime, to run scripts in isolated processes with Rust integration.
+- Converter - WASM FFMPEG audio/video converter without backend.
 - ~~P2P chat app - WebRTC DataChannel based chat app with signaling server.~~ *Cancelled at the working prototype stage due to various network conditions.*
