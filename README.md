@@ -23,10 +23,10 @@
 - [LightCloud](https://github.com/CodeHorizon0/LightCloud) - open source cloud file storage writen on [fastapi](https://fastapi.tiangolo.com/) & [react](https://react.dev/).
 ### Medium priority
 - Learnix - [REDACTED]
+- ECode - Light weight code editor like vscode without MS, based on rust + egui for fast work.
 - [ULoader](https://github.com/CodeHorizon0/ULoader) - universal media downloader for YouTube and other platforms, based on [yt-dlp](https://github.com/yt-dlp/yt-dlp) and [PyQt6](https://pypi.org/project/PyQt6/).
 - [MLC](https://github.com/CodeHorizon0/MLC) - Multi Langluage Core, PY/LUA (mb JS) in Rust runtime, to run scripts in isolated processes with Rust integration.
 ### Low priority
-- Converter - WASM FFMPEG audio/video converter without backend.
 - [LocalTube](https://github.com/CodeHorizon0/LocalTube) - Local light clone of YouTube for familiar viewing videos on disk. Writen in Rust & TypeScript with Tauri & React.
 - [FFT_WASM](https://github.com/CodeHorizon0/FFT_WASM) - WASM lib for fast fft audio analyze.
 - ~~P2P chat app - WebRTC DataChannel based chat app with signaling server.~~ *Cancelled at the working prototype stage due to various network conditions.*
