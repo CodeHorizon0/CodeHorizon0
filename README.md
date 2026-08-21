@@ -24,7 +24,6 @@
 - Learnix - [REDACTED]
 ### Medium priority
 - [LightCloud](https://github.com/CodeHorizon0/LightCloud) - open source cloud file storage writen on [fastapi](https://fastapi.tiangolo.com/) & [react](https://react.dev/).
-- [ULoader](https://github.com/CodeHorizon0/ULoader) - universal media downloader for YouTube and other platforms, based on [yt-dlp](https://github.com/yt-dlp/yt-dlp) and [PyQt6](https://pypi.org/project/PyQt6/).
 - [MLC](https://github.com/CodeHorizon0/MLC) - Multi Langluage Core, PY/LUA (mb JS) in Rust runtime, to run scripts in isolated processes with Rust integration.
 ### Low priority
 - [LocalTube](https://github.com/CodeHorizon0/LocalTube) - Local light clone of YouTube for familiar viewing videos on disk. Writen in Rust & TypeScript with Tauri & React.
