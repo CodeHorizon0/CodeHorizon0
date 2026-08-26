@@ -20,9 +20,8 @@
 ## Some of my significant projects in development that will be published soon:
 ### High priority
 - [ECode](https://github.com/CodeHorizon0/ECode) - Light weight code editor like vscode without MS, based on rust + egui for fast work.
-- [Learnix](https://github.com/CodeHorizon0/Learnix) - [Learnix]
-### Medium priority
 - [LightCloud](https://github.com/CodeHorizon0/LightCloud) - open source cloud file storage writen on [fastapi](https://fastapi.tiangolo.com/) & [react](https://react.dev/).
+### Medium priority
 - [MLC](https://github.com/CodeHorizon0/MLC) - Multi Langluage Core, PY/LUA (mb JS) in Rust runtime, to run scripts in isolated processes with Rust integration.
 ### Low priority
 - [DownloadSort](https://github.com/CodeHorizon0/DownloadSort) - Download folder sorter program with cli & gui mode with egui.
