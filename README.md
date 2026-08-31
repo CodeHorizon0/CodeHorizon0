@@ -18,6 +18,8 @@
 
 
 ## Some of my significant projects in development that will be published soon:
+### Background priority
+- GLaDOS 
 ### High priority
 - [ECode](https://github.com/CodeHorizon0/ECode) - Light weight code editor like vscode without MS, based on rust + egui for fast work.
 - [LightCloud](https://github.com/CodeHorizon0/LightCloud) - open source cloud file storage writen on [fastapi](https://fastapi.tiangolo.com/) & [react](https://react.dev/).
