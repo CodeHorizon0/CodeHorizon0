@@ -21,7 +21,7 @@
 ### Background high priority
 - GLaDOS 
 ### High priority
-- [ECode](https://github.com/CodeHorizon0/ECode) - Light weight code editor like vscode without MS, based on rust + egui for fast work.
+- [ECode](https://github.com/CodeHorizon0/ECode) - Light weight code editor like vscode without MS, based on rust + egui for fast runtime.
 - [LightCloud](https://github.com/CodeHorizon0/LightCloud) - open source cloud file storage writen on [fastapi](https://fastapi.tiangolo.com/) & [react](https://react.dev/).
 - BitShare - P2P file-sharing service based on WebRTC DataChannel working in LAN between devices for fast file transfer.
 ### Medium priority
