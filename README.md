@@ -11,7 +11,7 @@
   <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
   <img src="https://skillicons.dev/icons?i=tauri" height="40" alt="tauri logo"  />
   <img src="https://skillicons.dev/icons?i=bun" height="40" alt="bun logo"  />
-
+  
   ![Language using](https://github-readme-stats.shion.dev/api/top-langs/?username=CodeHorizon0&layout=donut&theme=gruvbox&hide_border=true&border_radius=16&include_all_commits=true&count_private=false)
 </div>
 
