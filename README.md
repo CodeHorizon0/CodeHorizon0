@@ -17,7 +17,7 @@
 
 
 
-## Some of my significant projects in development that will be published soon:
+## Some of the significant projects:
 ### Background high priority
 - GLaDOS 
 ### High priority
