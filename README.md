@@ -18,11 +18,12 @@
 
 
 ## Some of my significant projects in development that will be published soon:
-### Background priority
+### Background high priority
 - GLaDOS 
 ### High priority
 - [ECode](https://github.com/CodeHorizon0/ECode) - Light weight code editor like vscode without MS, based on rust + egui for fast work.
 - [LightCloud](https://github.com/CodeHorizon0/LightCloud) - open source cloud file storage writen on [fastapi](https://fastapi.tiangolo.com/) & [react](https://react.dev/).
+- BitShare - P2P file-sharing service based on WebRTC DataChannel working in LAN beetwen devices for fast file transfer.
 ### Medium priority
 - [SelfConverter](https://github.com/CodeHorizon0/SelfConverter) - Audio & Video serverless converter, using client WASM FFMPEG.
 - [MLC](https://github.com/CodeHorizon0/MLC) - Multi Langluage Core, PY/JS/LUA in Rust runtime, to run scripts in isolated processes with Rust integration.
