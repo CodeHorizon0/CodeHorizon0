@@ -1,7 +1,7 @@
 <h1 align="center"> CodeHorizon0 </h1>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=wasm" height="40" alt="webassembly logo"  />
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
   <img src="https://skillicons.dev/icons?i=rust" height="40" alt="rust logo"  />
 </div>
@@ -31,4 +31,5 @@
 - [DownloadSort](https://github.com/CodeHorizon0/DownloadSort) - Download folder sorter program with cli & gui mode with egui.
 - [LocalTube](https://github.com/CodeHorizon0/LocalTube) - Local light clone of YouTube for familiar viewing videos on disk. Writen in Rust & TypeScript with Tauri & React.
 - [FFT_WASM](https://github.com/CodeHorizon0/FFT_WASM) - WASM lib for fast fft audio analyze.
+- [WASMDither](https://github.com/CodeHorizon0/WASMDither) - WASM module for image dithering.
 - ~~P2P chat app - WebRTC DataChannel based chat app with signaling server.~~ *Cancelled at the working prototype stage due to various network conditions.*
